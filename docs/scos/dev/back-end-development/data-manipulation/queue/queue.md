@@ -192,7 +192,7 @@ Queue `Worker` is another useful command that sends the `Task`  to a background 
 
 ## Queue Job configuration
 
-You can also find the Worker configuration in jobs.php and adjust the worker command to run every minute:
+You can also find the Worker configuration in jenkins.php and adjust the worker command to run every minute:
 
 ```php
 <?php
